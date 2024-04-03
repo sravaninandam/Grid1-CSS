@@ -1,0 +1,96 @@
+.home{
+    margin-left: 50px;
+    font-size: 15px;
+}
+.one{
+    margin-left: 90px;
+    float: left;
+}
+.First{
+    background-color: rgb(60, 92, 92);
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.button1{
+    border: 2px solid skyblue;
+    border-radius: 50px;
+    width: 300px;
+    height: 30px;
+    /* padding-left: 80px;  */
+    padding-bottom: 15px;
+    float: left;
+    background-color: white;
+    color: grey;
+     text-align: center; 
+    
+   
+}
+.button2{
+    border: 2px solid skyblue;
+    border-radius: 50px;
+    width: 250px;
+    height: 30px;
+    padding-left: 50px;
+    padding-bottom: 15px;
+    margin-left: 20px;
+    background-color: white;
+    float: left;
+}
+.button3{
+    border: 2px solid skyblue;
+    border-radius: 50px;
+    width: 150px;
+    height: 30px;
+    padding-left: 70px;
+    padding-bottom: 15px;
+    margin-left: 650px;
+    background-color: white;
+    color: grey;
+}
+.two img{
+     /* margin-right: 350px;  */
+   border-radius: 100px;
+
+}
+.Two2-1{
+ float: left;
+ margin-left: 450px;
+ 
+}
+.Two2-2{
+ float: left;
+ margin-left: 80px;
+}
+.Two2-3{
+ float: left;
+ margin-left: 80px;
+}
+.Two2-4{
+    margin-left: 400px;
+    padding-left: 500px;
+}
+.Second{
+    /* background-color: rgb(143, 167, 167); */
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.button4{
+    border: 2px solid skyblue; 
+    width: 300px;
+    border-radius: 90px;
+}
+.Third{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: rgb(60, 92, 92);
+}
+.four1{
+    float: left;
+    margin-left:150px;
+    
+}
+.four2{
+    margin-left: 650px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding-bottom: 250px;
+}
+
+
